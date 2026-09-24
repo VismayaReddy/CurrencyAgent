@@ -1,1 +1,1 @@
-# CurrencyAgent
+# AgenticAI
